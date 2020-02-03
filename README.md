@@ -13,6 +13,8 @@ Hooks:
 
 Local Storage for persistant data
 
+CSS Modules
+
 
 ### To Run
 
