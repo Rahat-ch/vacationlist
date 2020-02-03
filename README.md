@@ -4,7 +4,7 @@ A vacation tracking app to keep track of all of your vacation dream locations.
 
 Uses:
 
-React Context
+React Context API for State Management
 
 Hooks:
   - useState
