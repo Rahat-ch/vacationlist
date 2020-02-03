@@ -1,0 +1,40 @@
+.location {
+  list-style-type: none;
+  margin-bottom: 15px;
+  width: fit-content;
+}
+
+.locationWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.close {
+  border: none;
+  background-color: rgb(235, 230, 230);
+  cursor: pointer;
+  margin-top: -40px;
+}
+
+.close:focus {
+  outline: 0;
+}
+
+.destination{
+  font-size: 36px;
+  margin-bottom: 25px;
+}
+
+.visited {
+  display: inline-block;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 18px;
+  background: #0069ed;
+  color: #ffffff;
+}
+
+.visited:focus{
+  outline: 0;
+}
